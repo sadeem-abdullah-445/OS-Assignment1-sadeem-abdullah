@@ -16,8 +16,8 @@ I learned that multithreading allows a program to run multiple tasks at the same
 ## Question 2: What was the most challenging part of this assignment?
 
 **Your Answer:**
+The most challenging part was making sure all features worked correctly together. Sometimes it was hard to understand how different parts of the code affected each other. Debugging was also difficult because small errors caused wrong results. I also had to make sure the output matched the expected results. Using Git and managing commits needed attention as well. Overall, combining everything correctly was the hardest part.
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
 
 ---
 
