@@ -122,10 +122,11 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [7 hours]
 
-**Most challenging part**: 
+**Most challenging part**: The most challenging part was implementing the waiting time tracking feature, as it required accurate time calculations and proper integration with the scheduling system.
 
 **Most interesting learning**: 
-
+The most interesting part was learning how threads work in a Round-Robin scheduling system and how processes are managed and executed step by step
 **What I would do differently next time**: 
+I would start earlier and test each feature more thoroughly before moving to the next one to avoid accumulating small errors
