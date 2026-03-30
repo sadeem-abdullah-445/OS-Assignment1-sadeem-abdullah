@@ -91,16 +91,18 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [Mar 30, 2026 - 10:30 PM]
+**What I did**:Implemented Feature 3 (Waiting Time Tracking and Summary) 
 
-**Details**: 
+**Details**: - Tracked waiting time for each process  
+- Calculated total waiting time  
+- Displayed results in a summary table  
 
-**Challenges**: 
+**Challenges**: Calculating waiting time accurately
 
-**Solution**: 
+**Solution**: Used time tracking functions and verified results
 
-**Time spent**: 
+**Time spent**: 2 hours
 
 ---
 
