@@ -47,16 +47,18 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [Mar 29, 2026 - 7:30 PM]
+**What I did**: Added my student ID to the code
 
-**Details**: 
+**Details**: - Located the student ID line in SchedulerSimulation.java  
+- Updated it with my actual ID  
+- Committed the changes  
 
-**Challenges**: 
+**Challenges**: Finding the correct line to modify
 
-**Solution**: 
+**Solution**: Followed the instructions provided in the assignment
 
-**Time spent**: 
+**Time spent**: 30 minutes  
 
 ---
 
