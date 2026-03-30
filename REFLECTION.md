@@ -8,8 +8,8 @@ Answer the following questions about your learning experience. Each answer shoul
 ## Question 1: What did you learn about multithreading?
 
 **Your Answer:**
+I learned that multithreading allows a program to run multiple tasks at the same time instead of one by one. I understood how threads are created and how they work together to improve performance. I also learned about different thread states like running and waiting. One thing that surprised me is how threads can cause problems if they are not handled carefully. This made me realize the importance of organizing the code properly. Overall, multithreading makes programs faster but also more complex
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
 
 ---
 
