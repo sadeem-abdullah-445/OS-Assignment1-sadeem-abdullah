@@ -32,16 +32,18 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [Mar 29, 2026 - 6:00 PM]
+**What I did**: Set up the repository and prepared the project environment.
 
-**Details**: 
+**Details**: - Accessed my GitHub account and forked the starter repository  
+- Explored the project structure and main files  
+- Reviewed the assignment instructions to understand the requirements
 
-**Challenges**: 
+**Challenges**: Understanding the structure of the project and where to start
 
-**Solution**: 
+**Solution**: Carefully read the instructions and explored the code step by step
 
-**Time spent**: 
+**Time spent**: 45 minutes
 
 ---
 
