@@ -24,8 +24,8 @@ The most challenging part was making sure all features worked correctly together
 ## Question 3: How did you overcome the challenges you faced?
 
 **Your Answer:**
+I solved the challenges by working step by step and testing the program many times. Debugging helped me find and fix errors. I also reviewed my code to understand where the problem was. When I didn’t understand something, I tried to search for examples. Practicing more helped me improve. In the end, being patient and checking my work carefully made a big difference.
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
 
 ---
 
