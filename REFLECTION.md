@@ -46,10 +46,8 @@ I would like to learn more about advanced topics like synchronization and how to
 ---
 
 ### How confident do you feel about multithreading concepts now?
+I feel between beginner and intermediate. I understand the basics like creating threads and how they run. However, I still need more practice with advanced topics. Some parts are still a bit confusing. With more practice, I can improve my confidence.
 
-[Rate yourself and explain: Beginner / Intermediate / Confident]
-
-[Explain your rating - what do you understand well? What needs more practice?]
 
 ---
 
