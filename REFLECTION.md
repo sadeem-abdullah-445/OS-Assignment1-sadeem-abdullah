@@ -40,8 +40,8 @@ Multithreading is used in many real applications like web browsers and mobile ap
 ## Additional Reflections (Optional)
 
 ### What would you like to learn more about?
+I would like to learn more about advanced topics like synchronization and how to avoid errors between threads. I also want to understand how systems manage threads internally. Learning more practical examples will help me improve. Overall, I want deeper understanding of concurrency.
 
-[Any topics related to threading, concurrency, or operating systems that you're curious about?]
 
 ---
 
