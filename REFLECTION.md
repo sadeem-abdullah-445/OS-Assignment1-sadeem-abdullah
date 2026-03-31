@@ -52,5 +52,5 @@ I feel between beginner and intermediate. I understand the basics like creating 
 ---
 
 ### Feedback on the assignment
+This assignment helped me understand multithreading in a practical way. It improved my coding and debugging skills. Some parts were challenging but useful for learning. I think adding more examples would help. Overall, it was a good learning experience
 
-[Any comments about the assignment? Was it helpful? Too easy/hard? Suggestions for improvement?]
