@@ -20,16 +20,20 @@ A process is an independent program with its own memory, while a thread is a sma
 **Question**: In Round-Robin scheduling, what happens when a process doesn't finish within its time quantum? Explain using an example from your program output.
 
 **Your Answer:**
+In Round-Robin scheduling, if a process does not finish during its time quantum, it goes back to the ready queue. It waits there until it gets another chance to run. In my program, after a process runs one quantum, if it still has remaining time, it is added back to the queue again. This keeps repeating until the process finishes. This way, all processes get a fair chance to use the CPU.
 
-[Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
+
 
 Example from my output:
 ```
-[Paste a relevant snippet from your program output here showing a process being re-queued]
-```
+P1 completed quantum 4000ms  
+Remaining time: 5938ms  
+P1 yields CPU for context switch  
+P1 (Priority: 5) added to ready queue  
+
 
 **Explanation of example:**
-[Explain what's happening in the output snippet you pasted]
+This example shows that P1 did not finish in one quantum, so it returned to the ready queue. It will run again later when it gets another turn.
 
 ---
 
