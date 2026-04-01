@@ -61,21 +61,21 @@ This example shows that P1 did not finish in one quantum, so it returned to the 
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: Web browser
 
-**Description**: 
-[Describe the real-world scenario or application]
+Description: A web browser runs multiple tasks at the same time like loading pages and handling user actions.
 
-**Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+Why Round-Robin works well here: It helps share CPU time between tasks and keeps the browser responsive.
 
-### Example 2: [Name of application/scenario]
 
-**Description**: 
-[Describe the real-world scenario or application]
 
-**Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+
+### Example 2: Mobile applications
+
+Description: Mobile apps handle different tasks like updating the screen and processing data.
+
+Why Round-Robin works well here: It allows tasks to share CPU time, so the app runs smoothly without freezing.
+
 
 ---
 
