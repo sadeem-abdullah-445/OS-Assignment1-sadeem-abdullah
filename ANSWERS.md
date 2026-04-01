@@ -82,10 +82,9 @@ Why Round-Robin works well here: It allows tasks to share CPU time, so the app r
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
-
+ 1. Difference between threads and processes
+ 2. Ready queue behavior
+ 3. Thread states
 **Concepts I need to study more:**
-1. 
-2. 
+1. Thread synchronization
+ 2. Other scheduling algorithms 
