@@ -43,17 +43,15 @@ This example shows that P1 did not finish in one quantum, so it returned to the 
 
 **Your Answer:**
 
-[Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
+1. **New**: P1 is in the New state when the thread is created using new Thread(process) but has not started yet. At this stage, it has not been scheduled for execution.
 
-1. **New**: [When is P1 in New state?]
+2. **Runnable**: P1 becomes Runnable after calling start(). It is ready to run and waiting for the CPU.
 
-2. **Runnable**: [When does P1 become Runnable?]
+3. **Running**: P1 is in the Running state when the run() method is executing. During this time, it uses the CPU for its time quantum.
 
-3. **Running**: [When is P1 Running?]
+4. **Waiting**:  P1 enters the Waiting state when it finishes its quantum but still has remaining time, so it is placed back into the ready queue. It waits until it gets another turn.
+5. **Terminated**: P1 becomes Terminated when its remaining time becomes zero and the thread finishes execution. After that, it does not run again.
 
-4. **Waiting**: [When/why would P1 be Waiting?]
-
-5. **Terminated**: [When is P1 Terminated?]
 
 ---
 
